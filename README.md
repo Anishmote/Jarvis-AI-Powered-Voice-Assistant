@@ -46,7 +46,7 @@ gtts
 pygame
 requests
 openai 
-
+```
 **Dependencies listed in requirements.txt:**
 speechrecognition
 pyttsx3
